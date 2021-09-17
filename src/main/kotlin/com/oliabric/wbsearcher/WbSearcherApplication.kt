@@ -12,9 +12,9 @@ fun main(args: Array<String>) {
     runApplication<WbsearcherApplication>(*args)
 }
 
-@RestController
-class HelloController {
-    @GetMapping("/")
-    fun index() = "Hello"
-}
+//@RestController
+//class HelloController {
+//    @GetMapping("/")
+//    fun index() = "Hello"
+//}
 
